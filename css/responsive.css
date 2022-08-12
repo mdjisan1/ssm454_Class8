@@ -1,0 +1,120 @@
+
+
+@media (max-width: 768px){
+
+    
+    .container{
+        max-width: 425px !important;
+    }
+    .banner-text h1{
+        font-size: 42px;
+    }
+.topbar .me-4{
+    margin: 0 8px !important;
+}
+.nav-link{
+    padding: 14px 10px;
+}
+.banner-text button {
+    margin-top: 16px;
+    margin-bottom: 101px;
+}
+.w-21{
+    width: 100%;
+    margin-right: 8px;
+    margin-bottom: 14px;
+}
+.firm-field{
+    width: 100%;
+}
+.section-title h2{
+    font-size: 32px;
+}
+.search {
+    padding-bottom: 30px;
+}
+.places-list {
+    padding-top: 52px;
+}
+.text-end, .topbag, .col-lg-6{
+        text-align: center !important;
+        margin-bottom: 12px;
+    }
+.item .col-lg-6{
+    text-align: left !important;
+}
+.slider-sec .owl-next{
+    /* display: none !important; */
+    position: relative;
+    right: -10px;
+    transform: translateY(47px);
+    height: 0 !important;
+    width:  0 !important;
+}
+.slider-sec .owl-prev{
+    position: relative;
+    left: -10px;
+    transform: translateY(47px);
+    height: 0 !important;
+    width: 0 !important;
+}
+.slider-sec {
+ padding: 80px 0;
+}
+
+.hotel-s-media {
+    right: 41px;
+}
+.h-img{
+    text-align: center;
+}
+.h-txt-center{
+    padding: 0 20px;
+}
+.hotel-room {
+    padding: 50px 0px;
+}
+
+#slider-2 {
+    padding: 70px 0;
+}
+#slider-2 h1 {
+    font-size: 32px;
+}
+.img-fluid{
+    width: 100%;
+}
+#picture{
+    padding: 70px 0px;
+}
+
+.f1-ul{
+    text-align: left;
+
+}
+.f-pad{
+    padding-left: 30px;
+
+}
+#footer {
+    width: 100%;
+    padding-top: 70px;
+}
+.f1-txt {
+    margin-bottom: 39px;
+}
+.f2-txt {
+    padding-top: 30px;
+}
+.f1-email{
+    padding: 0 !important;
+}
+.f3-txt {
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+.faltu{
+    margin-right: 0px;
+}
+
+}
